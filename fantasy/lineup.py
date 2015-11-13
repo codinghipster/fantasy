@@ -10,6 +10,8 @@ attr_map = {
     'POS': 'position',
     'TEAM': 'team',
     'SLOT': 'slot',
+    'OPP': 'opponent',
+    'STATUS ET': 'game_status',
     'PRK': 'player_rank',
     'PTS': 'points',
     'AVG': 'average',
